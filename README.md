@@ -45,15 +45,5 @@ Programı Başlatın
 ![Uygulama Ekran Görüntüsü](https://media.licdn.com/dms/image/D4D2DAQGyl7UDQSFlmg/profile-treasury-image-shrink_800_800/0/1707320531724?e=1708815600&v=beta&t=ZuvsWoAwTjMWgP-Qtw9DdYZXA-dWgItBYAmk-W99F0c)
 
   
-## Kullanılan Teknolojiler
-
-**İstemci:** React, Redux, TailwindCSS
-
-**Sunucu:** Node, Express
-
-  
-## Yazarlar ve Teşekkür
-
-- [@octokatherine](https://www.github.com/octokatherine) tasarım ve geliştirme için.
 
   
