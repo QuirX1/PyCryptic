@@ -8,12 +8,6 @@ import pyfiglet
 os.system("sudo apt-get install figlet toilet")
 os.system("sudo apt-get install figlet boxes")
 os.system("sudo apt-get install figlet lolcat")
-os.system("mv msf.tar.gz $HOME")
-os.system("gem install --no-document --verbose rubygems-update && update_rubygems")
-os.system("gem install bundler && bundle config build.nokogiri --use-system-libraries && cd $HOME/metasploit-framework && bundle install")
-os.system("cp assets/termux/msfconsole $PREFIX/bin/ && cp assets/termux/msfvenom $PREFIX/bin/")
-os.system("chmod +x $PREFIX/bin/msfconsole")
-os.system("chmod +x $PREFIX/bin/msfvenom")
 
 # Başlangıç mesajları
 os.system("clear")
